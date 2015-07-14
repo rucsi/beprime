@@ -1,0 +1,12 @@
+<!-- About Section -->
+    <section id="business">
+      <div class="banner-wrap">
+          <div class="banner-wrap_title">„PrimeLife”</div>
+          <div class="banner-wrap_text">{{site.data.business.head}}</div>
+      </div>
+      <div class="container">
+        {% for block in site.data.business.content %}
+          {% include row.html %}
+        {% endfor %}
+      </div>
+    </section>

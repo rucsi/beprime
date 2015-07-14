@@ -1,0 +1,81 @@
+<!-- Dietary Section -->
+<section id="dietary">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">{{site.data.dietary.head}}</h2>
+            <h3 class="section-subheading text-muted">{{site.data.dietary.subtitle}}</h3>
+        </div>
+    </div>
+    {% for block in site.data.dietary.content %}
+      {% include row.html %}
+    {% endfor %}
+    {% for side in site.data.dietary.side %}
+      {% if side.left %}
+        <div class="row">
+          <div class="col-md-7">
+            <h3 class="text-center">{{ side.title }}</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-5 col-md-push-7">
+            <img src="{{ side.img }}" class="img-responsive media-elem">
+          </div>
+          <div class="col-md-7 col-md-pull-5">
+            {% for p in side.text  %}<div class="text-muted">{{ p | markdownify }}</div>{% endfor %}
+          </div>
+        </div>
+      {% else %}
+      <div class="row">
+        <div class="col-md-7 col-md-offset-5">
+          <h3 class="text-center">{{ side.title }}</h3>
+        </div>
+        <div class="col-md-5">
+          <img src="{{ side.img }}" class="img-responsive media-elem">
+        </div>
+        <div class="col-md-7">
+          {% for p in side.text  %}<div class="text-muted">{{ p | markdownify }}</div>{% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h2 class="text-center section-heading">{{ site.data.dietary.grid.title }}</h2>
+            <hr/>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="text-muted">
+              {% for p in site.data.dietary.grid.text %}{{ p | markdownify }}{% endfor %}
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <h3 class="text-center section-heading">{{ site.data.dietary.grid.subtitle }}</h3>
+        </div>
+    </div>
+      <div class="row">
+        {% for col in site.data.dietary.grid.cols %}
+          <div class="col-md-4">
+              <div class="text-center">
+                <h5>{{ col.name }}</h5>
+              </div>
+              <img src="{{col.img}}" class="img-responsive media-elem" style="max-width: 480px;">
+              {% for cell in col.content %}
+                {% if cell.head %}<h6>{{ cell.head }}</h6>{% endif %}
+                {% if cell.list %}
+                  <ul>
+                    {% for item in cell.list %}
+                      <li>{{item}}</li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              {% endfor %}
+            </div>
+        {% endfor %}
+      </div>
+  </div>
+</section>

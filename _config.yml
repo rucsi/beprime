@@ -1,0 +1,40 @@
+url: https://beprimeforlife.com
+baseurl:
+
+# Site settings
+title: be prime for life
+email: info@beprimeforlife.com
+description: "Don't wait for Last Minute! Travel with 20-60% discount on any day of the year. Explore the World without limits! be more. be prime. be prime for life"
+meta:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 333
+  note: da8044
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  days:
+    - title: facebook
+      url: https://www.facebook.com/TourismIsALifestyle
+    - title: google-plus
+      url: https://plus.google.com/111378408882215843296
+  shape:
+    - title: facebook
+      url: https://www.facebook.com/pages/Blooming-Body/1540070549584040
+    - title: google-plus
+      url: https://plus.google.com/113833272214111864124
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  input: GFM

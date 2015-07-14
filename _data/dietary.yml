@@ -1,0 +1,117 @@
+# dietary page
+head: PRIMESHAPE
+subtitle: The beautiful body is more than good looks.
+content:
+  - img: ../img/dietary/banner_1.png
+  - text:
+    - So you would like to have a shape like "that". You want to change. This time really, but you are wary of starting a diet over and over again.
+    - Has it ever crossed your mind that if it worked this time, you would never have to start over again?
+    - Loosing weight has never been easier before!
+    - Have slim waist, flat belly, being energetic and self confidence been alien to you so far? How many times have you imagined leaving your house in the morning with ease and self confidence in your desired shape in a nice dress? If only there wasn't that extra weight  you could soar...
+    - Overweight is not just an aesthetic and medical issue but the root of psychological problems. Say goodbye to it forever and live a liberated, complete life. Let the one who stands in the mirror be your best friend!
+  - note: The problem is endemic. Over the half of the population is  overweight
+  - title: Energy, freedom and self confidence
+  - text:
+    - The moment of change has arrived. The first day of your new life. You have come to the right place because we will keep holding your hand, be right beside you through ups and downs all the way as far as you need it.
+    - Believe that your current shape is only a transient state and you have spent enough time in it.
+    - You have already taken the first step by reading these lines and we will build your momentum moving forward. We will provide you the safest and most comprehensive weight loss supporting system.  The high-end, proven efficiency products of PRIMESHAPE and the expert support  of the Winner’s Body program specialists.
+    - __So you will not need to start over again, because this time you are going to succeed!__
+side:
+  -
+    left: true
+    title: Mother and Woman
+    img: ../img/dietary/woman.png
+    text:
+      - Preserving a pretty, feminine shape is practically a constant challenge for ladies. Although many plus sized ladies live happily and contentedly, enjoys her other half's admiration for rounded forms, unfortunately this is rarely the case. Many people struggle a lifetime to catch up with a desired shape, which is not certain for the compliance of the opposite sex, but rather for the slenderly-built, graceful, eternally smiling, thin-ideal body image portrayed in the media. Despite knowing that this is not the key of true happiness, it would be irresponsible to bury our heads in the sand and ignore plenty of those fates, whose bitter root of origin is exactly being overweight.
+      - Many struggle with excess weight after the joy of childbirth, searching for their former shape, but could just not look back at the mirror. The lack of the old shape is overshadowed by the miracle of motherhood for a while, but with time self-confidence could reduce. They find themselves less of a woman. Convince themselves that as a mother this does not matter. They try to dismiss the disturbing thoughts, explain with genetics, the lack of time, stress... This kind of resignation traps them to gain further weight.
+      - If only they weren't snapped back to reality over and over again by a counter-example! If only they wouldn’t encounter a pretty, slim, full of life mother every day! They wish they wouldn’t remember that petite secretary at their husband's office...
+      - We keep on reading stories about people who changed their life-styles successfully, and are now proudly smiling to the world as well as the mirror.
+      - __It is time for You to become one of them!__
+  -
+    left: false
+    title: Man
+    img: ../img/dietary/man.png
+    text:
+      - Let's start with a sad, unfortunate fact. Men’s lives are shorter. How is it that the stronger sex is the weaker? Numerous reasons could exist, but there is one physiological point, in which the crown of creation is definitely different from an ordinary woman... and this is nothing else but the abdominal obesity.
+      - Why is this dangerous? While most of the fat is deposited around the hips in majority of women, men grow a belly spectacularly. This means that the extra pounds for the ladies represents mostly an aesthetic problem. On the other hand, the adipose tissues appearing on the gentlemen's waist and abdomen are deposited directly around their internal organs, greatly increasing the risk of cardiovascular diseases, which is among the leading causes of death, and the chance for diabetes.
+      - Thus, while the reason of women's diet is primarily a pretty appearance, the men's lives could often depend on noticing the slinking pounds in time. And we have yet to talk about every alpha-male's nightmare,  which could become reality because of the more and more dormant libido due to the blunted, sluggish body.
+      - Let's be clear, as slyly as the extra weight comes, it is harder to make it go away. If you do not want the world changing you and all the beauty of your handsome manhood with a fat belly and its consequences, then you need to change the world.
+      - __Face the fate that awaits you and do not be another one among the paunchy middle-aged men in the statistics.__
+  -
+    left: true
+    title: Child
+    img: ../img/dietary/child.png
+    text:
+      - The number of obese children doubled in the last 15 years in the United Stated, over 25 million overweight children live in the European Union and their numbers are increasing rapidly, 500 thousand a year. Yet strangely this tendency remains in some ways taboo, which is clearly established by the adults.
+      - Although the youngster himself could be responsible for the condition in the rarest cases, he is the one who suffers all of its consequences. As charming as the childish sincerity is, as painful as it could be to hear an "innocent" mockery on the playground. Not to mention the serious health consequences, which are largely attributable to the account of childhood obesity, such as anxiety, asthma or type 2 diabetes.
+      - Since the most susceptible stage of our lives is our childhood, our children copy our behavioural norms, which should not disregard the love of a healthy diet and lifestyle.
+      - The environment  constructed by the consumer society could be held responsible, largely, for one in four children are overweight in the US. Think of the high sugar content in - what can hardly be called food - the colourful, inviting packaging of snacks and in-store placement. It's all about, whether it's chocolate, gum, ice cream or chips, to consume, buy, spend, become addicted - regardless of how this will affect the growing life.
+      - A general ambition of PRIMESHAPE is to emphasise the importance of prevention and provide parents with the basics of a healthy lifestyle with its philosophy and the help of its professionals. Our goal is to be able to stop the tragic trend of the number of obese youngsters, keep growing by leaps and bounds every year, with incalculable consequences for health.
+      - __The little ones also deserve a "Prime Life", but their life is in our hands!__
+grid:
+  title: The most complex support of weight loss
+  text:
+      - Loosing weight, being an extremely complex procedure, can only be successful and lasting if we stress proper emphasis on all parts of it. Numerous biological and physiological processes and changes take place in the human body during weight loss. All of them receive high-end support by the patent components of the PRIMESHAPE products.
+      - The PRIMESHAPE BOX, what includes PRIMESHAPE Phase 1, Phase 2 and Phase 3 products, provides a comprehensive and scientifically proven effective solution for the weight loss challenges, such as what everyone who desires to lose weight has been waiting for so long.
+  subtitle: How will PRIMESHAPE products help You achieve your goals?
+  cols:
+    -
+      name: Phase 1
+      img: ../img/dietary/phase-1.png
+      title: Slimaluma™ – Patent Caralluma Fimbriata extract
+      content:
+        - head: The most healthy way of appetite reduction
+        - list:
+          - Clinically proven to significantly reduces hunger
+          - Less consumed calories
+          - Lowers cravings for snack
+          - Reduces desire for sweets
+          - Demonstrably smaller waist / hip circumference
+          - Breaking fat deposited around the belly and waist
+          - Body mass index optimisation
+          - Consumption of portions
+          - Inhibiting enzymes involved in the construction of fat
+          - Fat burning
+          - Stamina increase
+          - Has been shown to contribute to reducing weight
+          - Body fat reduction
+    -
+      name: Phase 2
+      img: ../img/dietary/phase-2.png
+      title: Prenulin™ – Patent L-arabinose and bioactive Chrome (Chromax™)
+      content:
+        - head: L-arabinose - Inhibition of the calories digested with sugar
+        - list:
+          - Inhibits the catabolism of  digested sugar
+          - Prevents the consumed sugar and carbohydrates from turning into fat
+          - Low glycemic response promotion
+          - Extremely reduces blood sugar levels
+          - Blocks calories from sugar intake
+          - Inhibits the digestive enzymes of sucrose
+          - Slows the absorption of sugar down
+        - head: Chromax™ – Balanced blood sugar level
+        - list:
+          - Unique insulin support
+          - Lowers craving for sweets
+          - Speeds metabolism up
+          - Stabilises blood sugar level
+    -
+      name: Phase 3
+      img: ../img/dietary/phase-3.png
+      title: Carnipure™ – Patent L-carnitin + Brown alga extract + Multivitamin
+      content:
+        - head: Fat to energy. Beauty, vitality, health.
+        - list:
+          - Instantly turns the digested fats into energy
+          - Provides adequate performance and endurance during sports
+          - Promotes recovery after exercises
+          - Supplies heart- and immune cells with energy
+          - Accelerates the burning of consumed fat
+          - Less fat stored in the body tissues
+          - Reduces the level of fat in the blood
+          - Can reduce the amount of food intake
+          - Reduces hunger
+          - More active metabolism
+          - Enhances thermogenesis
+          - Vitamin supply
+          - Increases mental and physical activity

@@ -1,0 +1,35 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                  <label>PRIMEDAYS Travel</label>
+                  <ul class="list-inline social-buttons">
+                      {% for network in site.social.days %}
+                      <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                      </li>
+                      {% endfor %}
+                  </ul>
+                </div>
+                <div class="col-md-4 col-md-push-4">
+                  <label>PRIMESHAPE Dietary</label>
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social.shape %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4 col-md-pull-4">
+                    <span class="copyright">&copy; {{ site.title }} 2015</span>
+                </div>
+                <!-- <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div> -->
+            </div>
+        </div>
+    </footer>
