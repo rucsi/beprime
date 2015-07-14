@@ -1,5 +1,6 @@
 url: https://beprimeforlife.com
 baseurl:
+domain: beprimeforlife.com
 enforce_ssl: beprimeforlife.com
 
 # Site settings
