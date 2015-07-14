@@ -1,5 +1,6 @@
 url: https://beprimeforlife.com
 baseurl:
+enforce_ssl: beprimeforlife.com
 
 # Site settings
 title: be prime for life
