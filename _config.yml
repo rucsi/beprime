@@ -7,7 +7,8 @@ enforce_ssl: beprimeforlife.com
 title: be prime for life
 email: info@beprimeforlife.com
 description: "Don't wait for Last Minute! Travel with 20-60% discount on any day of the year. Explore the World without limits! be more. be prime. be prime for life"
-meta:
+name: Be Prime For Life
+image: /img/ogimg.png
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
